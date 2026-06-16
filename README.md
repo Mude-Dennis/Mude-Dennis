@@ -1,6 +1,6 @@
 ## Dennis Kyule Muli
 
-Electrical Engineer | Arduino & ESP32 Developer | IoT Systems Developer
+Electrical Engineer| Electronics | Arduino & ESP32 Developer | IoT Systems Developer
 
 ## About Me
 
