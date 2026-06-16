@@ -1,16 +1,61 @@
-## Hi there 👋
+## Dennis Kyule Muli
 
-<!--
-**Mude-Dennis/Mude-Dennis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical Engineer | Arduino & ESP32 Developer | IoT Systems Developer
 
-Here are some ideas to get you started:
+**About Me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an Electrical Engineer passionate about embedded systems, battery management systems, IoT solutions, and smart agricultural technologies.
+
+I have experience developing Arduino and ESP32-based projects involving sensor integration, wireless communication, and real-time monitoring systems.
+
+## Projects
+
+1. Battery Management System (BMS)
+
+- Voltage monitoring
+- Current monitoring
+- Temperature monitoring
+- Bluetooth communication
+- Battery protection logic
+
+2. Portable Laboratory
+
+- ESP32 based system
+- RS485 communication
+- Multi-parameter sensing
+- Real-time monitoring
+
+3. Fire Detection System
+
+- Smoke sensor
+- Flame sensor
+- Temperature sensor
+- Automated warning and suppression logic
+
+## Technical Skills
+
+1. Programming
+- Arduino C++
+- ESP32
+- Embedded Systems
+
+2. Electronics
+- Sensor Integration
+- Circuit Design
+- Battery Monitoring Systems
+- RS485 Communication
+
+## Tools
+- GitHub
+- Wokwi
+- Arduino IDE
+
+## Experience
+
+- Kenya Power and Lighting Company (KPLC)
+- Kenya Bureau of Standards (KEBS)
+
+## Contact
+
+- Email: dennismuli@gmail.com
+- GitHub: github.com/Mude-Dennis
