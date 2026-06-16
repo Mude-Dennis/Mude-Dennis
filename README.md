@@ -10,7 +10,7 @@ I have experience developing Arduino and ESP32-based projects involving sensor i
 
 ## Projects
 
-1. Battery Management System (BMS)
+**1. Battery Management System (BMS)**
 
 - Voltage monitoring
 - Current monitoring
@@ -18,14 +18,14 @@ I have experience developing Arduino and ESP32-based projects involving sensor i
 - Bluetooth communication
 - Battery protection logic
 
-2. Portable Laboratory
+**2. Portable Laboratory**
 
 - ESP32 based system
 - RS485 communication
 - Multi-parameter sensing
 - Real-time monitoring
 
-3. Fire Detection System
+**3. Fire Detection System**
 
 - Smoke sensor
 - Flame sensor
@@ -34,12 +34,12 @@ I have experience developing Arduino and ESP32-based projects involving sensor i
 
 ## Technical Skills
 
-1. Programming
+**1. Programming**
 - Arduino C++
 - ESP32
 - Embedded Systems
 
-2. Electronics
+**2. Electronics**
 - Sensor Integration
 - Circuit Design
 - Battery Monitoring Systems
@@ -54,6 +54,7 @@ I have experience developing Arduino and ESP32-based projects involving sensor i
 
 - Kenya Power and Lighting Company (KPLC)
 - Kenya Bureau of Standards (KEBS)
+- Head of IAE Bornelabs
 
 ## Contact
 
