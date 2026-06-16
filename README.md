@@ -2,7 +2,7 @@
 
 Electrical Engineer | Arduino & ESP32 Developer | IoT Systems Developer
 
-**About Me**
+## About Me
 
 I am an Electrical Engineer passionate about embedded systems, battery management systems, IoT solutions, and smart agricultural technologies.
 
