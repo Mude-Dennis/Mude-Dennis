@@ -25,7 +25,7 @@ I have experience developing Arduino and ESP32-based projects involving sensor i
 - RS485 communication
 - Multi-parameter sensing
 - Real-time monitoring
- ![Potable Lab Image](Potable Lab.jpeg)
+ ![Potable Lab Image](PotableLab.jpeg)
 
 
 **3. Fire Detection System**
@@ -34,7 +34,7 @@ I have experience developing Arduino and ESP32-based projects involving sensor i
 - Flame sensor
 - Temperature sensor
 - Automated warning and suppression logic
- ![Fire Stop Image](Fire Stop.jpeg)
+ ![Fire Stop Image](FireStop.jpeg)
 
 ## Technical Skills
 
