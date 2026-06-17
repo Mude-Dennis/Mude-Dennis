@@ -17,6 +17,7 @@ I have experience developing Arduino and ESP32-based projects involving sensor i
 - Temperature monitoring
 - Bluetooth communication
 - Battery protection logic
+  ![BMS Image](images/BMS.jpg)
 
 **2. Portable Laboratory**
 
