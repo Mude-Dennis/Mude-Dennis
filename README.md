@@ -17,7 +17,7 @@ I have experience developing Arduino and ESP32-based projects involving sensor i
 - Temperature monitoring
 - Bluetooth communication
 - Battery protection logic
-  ![BMS Image](images/BMS.jpeg)
+  ![BMS Image](BMS.jpeg)
 
 **2. Portable Laboratory**
 
@@ -34,7 +34,7 @@ I have experience developing Arduino and ESP32-based projects involving sensor i
 - Flame sensor
 - Temperature sensor
 - Automated warning and suppression logic
- ![Fire Stop Image](images/Fire_Stop.jpeg)
+ ![Fire Stop Image](Fire_Stop.jpeg)
 
 ## Technical Skills
 
