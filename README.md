@@ -25,7 +25,7 @@ I have experience developing Arduino and ESP32-based projects involving sensor i
 - RS485 communication
 - Multi-parameter sensing
 - Real-time monitoring
- ![Potable Lab Image](images/Potable_Lab.jpeg)
+ ![Potable Lab Image](Potable_Lab.jpeg)
 
 
 **3. Fire Detection System**
